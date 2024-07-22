@@ -2,3 +2,9 @@ body {
   background-color: darkblue;
   color: aliceblue;
 }
+h1 {
+  text-align: center;
+}
+footer {
+  text-align: center;
+}
