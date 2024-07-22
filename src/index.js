@@ -80,7 +80,7 @@ function updateTime() {
           <div class="time">${cityCurrentTime}</div>
         </div>
         <div id = "home">
-          <a href="index.html">
+          <a href="/">
             <span class="material-symbols-outlined">
                 family_home
             </span>
