@@ -66,7 +66,7 @@ function updateTime() {
 
     let cityCurrentTime = moment()
       .tz(cityTimeZoneValue)
-      .format("h:mm:ss [<small>]A[</small>]");
+      .format("h:mm [<small>]A[</small>]");
     let citiesElement = document.querySelector("#cities");
     citiesElement.innerHTML = `
         <div class="city">
