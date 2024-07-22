@@ -4,7 +4,7 @@ function updateTime() {
   let panamaFormatDate = moment().tz(timeZone).format("MMMM Do YYYY");
   let panamaCurrentDate = `Panamá 🇵🇦 - ${panamaFormatDate}`;
   let panamaCurrentTime = moment()
-    .tz("timeZone")
+    .tz(timeZone)
     .format("h:mm:ss [<small>]A[</small>]");
 
   let panamaElement = document.querySelector("#panama");
