@@ -47,3 +47,9 @@ function updateTime() {
 
 updateTime();
 setInterval(updateTime, 1000);
+
+//For "Pueblo Viejo" real time data in (timezone - America/Dominica):
+//For "Arizona" real time data in (timezone - US/Arizona):
+//For "Montreal" (Toronto, Montreal, Quebec City and Ottawa) real time data in (timezone - America/Montreal):
+//For "México (Sonora, Hermosillo)" real time data in (timezone - America/Hermosillo):
+//For "México (Monterrey, Guerrero, Torreón, Chihuahua)" real time data in (timezone - America/Monterrey):
