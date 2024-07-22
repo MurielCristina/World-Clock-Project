@@ -51,6 +51,17 @@ h2 {
   font-size: 14px;
   vertical-align: middle;
 }
+a {
+  text-decoration: none;
+  color: #004445;
+}
+#home {
+  font-size: 40px;
+  display: block;
+  text-align: center;
+  padding-bottom: 25px;
+}
+
 footer {
   text-align: center;
   color: #faf5e4;
